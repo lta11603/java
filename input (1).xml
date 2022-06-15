@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student id="1">
+        <fistname>Tran</fistname>
+        <lastname>Lê</lastname>
+        <mark>8</mark>
+    </student>
+    <student id="2">
+        <fistname>Nguyễn</fistname>
+        <lastname>Hồng</lastname>
+        <mark>8</mark>
+    </student>
+    <student id="3">
+        <fistname>Phạm</fistname>
+        <lastname>Lan</lastname>
+        <mark>8</mark>
+    </student>
+</class>
